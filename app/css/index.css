@@ -1,0 +1,10 @@
+html,
+body {
+  -webkit-app-region: drag;
+}
+
+.button{
+  height:30px;
+  width:60px;
+  padding: 5px;
+}
